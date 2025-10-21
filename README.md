@@ -1,13 +1,13 @@
 # Portafolio_JosueMelendez
 
-# ¡Hola! 👋 Soy [Josué Meléndez]
-## [Desarrollador web Jr | Estudiante Universidad Don Bosco]
+# ¡Hola! 👋 Soy Josué Meléndez
+## Desarrollador web Jr | Estudiante Universidad Don Bosco
 
-¡Bienvenido/a a mi rincón en GitHub! Soy un/a [desarrollador] apasionado/a por [aprender nuevas tecnologias, desarrollar herramientas de alta calidad e impacto, manteniendo una excelente calidad y practicidad]. Me especializo en [desarrollo de paginas, aplicaciones y herramientas web].
+¡Bienvenido/a a mi rincón en GitHub! Soy un/a desarrollador apasionado/a por aprender nuevas tecnologias, desarrollar herramientas de alta calidad e impacto, manteniendo una excelente calidad y practicidad. Me especializo en desarrollo de paginas, aplicaciones y herramientas web.
 
-- 🔭 Actualmente estoy estudiando en... [Universidad Don Bosco].
-- 🌱 Estoy aprendiendo... [Docker y especializarme en JS].
-- 📫 Cómo contactarme: [https://www.linkedin.com/in/edgar-josue-gomez-melendez-06a213250/].
+- 🔭 Actualmente estoy estudiando en... Universidad Don Bosco.
+- 🌱 Estoy aprendiendo... Docker y especializarme en JS.
+- 📫 Cómo contactarme: https://www.linkedin.com/in/edgar-josue-gomez-melendez-06a213250/.
 
 ---
 
@@ -43,7 +43,7 @@ Aquí están algunas de las tecnologías con las que he trabajado recientemente:
 
 Aquí hay una selección de proyectos en los que he trabajado.
 
-### 1. [Gestion de biblioteca]
+### 1. Gestion de biblioteca
 
 [![Vista previa de [Gestion de biblioteca]]](https://github.com/JeremyFlxress/Front-end_DWF.git)
 
@@ -55,7 +55,7 @@ Aquí hay una selección de proyectos en los que he trabajado.
 
 ---
 
-### 2. [Simulador de certificaciones]
+### 2. Simulador de certificaciones
 
 [![Vista previa de [Simulador de certificaciones]]](https://github.com/JeremyFlxress/HorasSociales.git)
 
