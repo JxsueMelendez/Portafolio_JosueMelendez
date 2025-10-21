@@ -1,5 +1,3 @@
-# Portafolio_JosueMelendez
-
 # ¡Hola! 👋 Soy Josué Meléndez
 ## Desarrollador web Jr | Estudiante Universidad Don Bosco
 
@@ -45,25 +43,25 @@ Aquí hay una selección de proyectos en los que he trabajado.
 
 ### 1. Gestion de biblioteca
 
-[![Vista previa de [Gestion de biblioteca]]](https://github.com/JeremyFlxress/Front-end_DWF.git)
+!Vista previa de Gestion de biblioteca (https://github.com/JeremyFlxress/Front-end_DWF.git)
 
 **Descripción:** El proyecto tiene como finalidad llevar registro de libros, alumnos que leen, y llevar un control sobre cuanto leen, quienes leen y cuando lo hacen, esto ayuda a recompensar a los que leen mas, en incentiva a los que no les llama la atencion, se hizo para el centro ¡Supérate! Fundación Raices.
 
 **Tecnologías:** `Next.js`, `Node.js`.
 
-[Ver Código en GitHub](https://github.com/JeremyFlxress/Front-end_DWF.git)
+Ver Código en GitHub (https://github.com/JeremyFlxress/Front-end_DWF.git)
 
 ---
 
 ### 2. Simulador de certificaciones
 
-[![Vista previa de [Simulador de certificaciones]]](https://github.com/JeremyFlxress/HorasSociales.git)
+!Vista previa de Simulador de certificaciones (https://github.com/JeremyFlxress/HorasSociales.git)
 
 **Descripción:** Este proyecto es un simulador, una forma para que los estudiantes del centro ¡Supérate! Fundación Raices pudieran practicar sus certificaciones de Python y JS en un sistema alojado en el servidor del centro. Este fue donde se alojo el proyecto, se creo con el fin de ser lo mas fiel a la certificacion real.
 
 **Tecnologías:** `Node.js`, `Next.js`.
 
-[Ver Código en GitHub](https://github.com/JeremyFlxress/HorasSociales.git)
+Ver Código en GitHub (https://github.com/JeremyFlxress/HorasSociales.git)
 
 ## 📫 Contacto
 
